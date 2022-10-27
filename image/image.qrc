@@ -1,0 +1,25 @@
+<RCC>
+  <qresource prefix="backgroud">
+    <file>backgroud.jpg</file>
+  </qresource>
+  <qresource prefix="selectplatform">
+    <file>hisense.png</file>
+    <file>platform.jpg</file>
+  </qresource>
+  <qresource prefix="platform">
+    <file>ico/platform.ico</file>
+    <file>ico/server.ico</file>
+    <file>ico/camera.ico</file>
+  </qresource>
+  <qresource prefix="other">
+    <file>ico/quit.ico</file>
+    <file>ico/login.ico</file>
+    <file>ico/video.ico</file>
+    <file>ico/start.ico</file>
+    <file>ico/save.ico</file>
+    <file>ico/model.ico</file>
+  </qresource>
+  <qresource prefix="detector">
+    <file>detector.jpg</file>
+  </qresource>
+</RCC>
